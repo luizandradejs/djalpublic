@@ -1,0 +1,20 @@
+.spotlights > section > .image:before {
+    content: none !important;
+}
+
+.header-content-inner img {
+    float: left;
+}
+
+.spotlights > section > .content > .inner,
+.wrapper > .inner,
+#sidebar > .inner,
+#sidebar nav > ul > li {
+    transform: none !important;
+    opacity: 1 !important;
+}
+
+.button-link img {
+    width: 70px; 
+    height: 70px; 
+}
